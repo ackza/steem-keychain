@@ -1,4 +1,4 @@
-![](https://i.imgur.com/4rPWDFs.png)
+![image.png](https://images.golos.io/DQmNV1PZzNVhxc5Yfw8gVNVJ24MNxLRbS8UTo7qLorprsnw/image.png)
 ---
 Putting private keys directly into websites is not safe or secure. Even ones run by SteemIt, Inc. Yet this is currently how nearly every Steem-based site or service currently works. On top of that, most Steem users likely use their master password which is even worse
 
