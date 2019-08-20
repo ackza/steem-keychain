@@ -261,3 +261,4 @@ Where `amount` is expressed in SP for more visibility for the user.
 
 * [ngx-steem-keychain](https://github.com/steeveproject/ngx-steem-keychain) -
   Native [Angular](https://angular.io) framework integration.
+Thanks MattyIce / @yabapmatt and @stoodkev ! This couldn't happen without your work on STEEM keychain!  
